@@ -1,0 +1,189 @@
+baseurl = "https://rbinaz.com"
+title = "RPAA"
+theme = "hugo-universal-theme"
+themesDir = "themes"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+# [[menu.main]]
+#     identifier="blog"
+#     name = "Blog"
+#     url  = "/blog/"
+#     weight = 2
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url  = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Courts"
+    url = "http://dailyracquetball.com/where-to-play-racquetball-arizona/"
+    weight = 4
+
+[[menu.main]]
+    name = "Tournaments"
+    url = "https://www.usaracquetballevents.com/Arizona/future.asp?region=AZ"
+    weight = 5
+
+[[menu.main]]
+    name = "Rankings"
+    url = "https://www.usaracquetballevents.com/rankings.asp?sortOptions=YES?region=AZ"
+    weight = 6
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 7
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "http://facebook.com/rbinaz"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UCfMk5meI8oGBMwAX43tunSA"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Email"
+    url = "rbinazboard@gmail.com"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorePostLink = "/about/"
+    author = "Alex Hough"
+    defaultKeywords = ["rpaa", "rbinaz", "racquetball", "board"]
+    mainSections = ["home"]
+    defaultDescription = "Racquetball Players Associatoin of Arizona website"
+
+    # Social media
+    facebook_site = "https://www.facebook.com/rballinaz" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    default_sharing_image = "img/sharing-default.png"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "red"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "rbinazboard@gmail.com"
+    contact_form_ajax = true
+
+    # about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    copyright = "Copyright (c) 2020, Racquetball Players Association of Arizona; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
+    # address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
+    #     <br>13/25 New Avenue
+    #     <br>Newtown upon River
+    #     <br>45Y 73J
+    #     <br>England
+    #     <br>
+    #     <strong>Great Britain</strong>
+    #   </p>
+    #   """
+    # latitude = "-12.043333"
+    # longitude = "-77.028333"
+
+# [Permalinks]
+#     blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = false
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Racquetball Players Association of Arizona Board Members"
+    subtitle = "All Board members are non-compensated volunteers that are elected by the active RPAA membership for three year terms."
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = false
+    title = "From our blog"
+    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
