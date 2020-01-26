@@ -73,7 +73,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 3
     name = "Email"
-    url = "rbinazboard@gmail.com"
+    url = "mailto:rbinazboard@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
