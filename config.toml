@@ -47,7 +47,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Rankings"
-    url = "https://www.usaracquetballevents.com/rankings.asp?sortOptions=YES?region=AZ"
+    url = "https://www.usaracquetballevents.com/rankings.asp?region=AZ"
     weight = 6
 
 [[menu.main]]
