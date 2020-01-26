@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -t hugo-universal-theme# if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t hugo-universal-theme
 
 # Go To Public folder
 cd public
