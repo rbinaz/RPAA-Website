@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rbinaz.com/blog/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/categories/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/blog/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/blog/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/blog/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/blog/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/tags/ipsum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/categories/lorem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rbinaz.com/blog/migrate-from-jekyll/</loc>
+  </url>
+  
+</urlset>
