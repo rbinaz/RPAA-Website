@@ -23,4 +23,4 @@ The RPAA is responsible for sanctioning tournaments in Arizona under the guideli
 ## About the RPAA
 We all donate time, money, efforts, and more to help racquetball in Arizona. Please contact us if you would like to help.
 
-The RPAA (Racquetball Players Association of Arizona) is a 501(c)(3) not-for-profit Arizona corporation organized to promote, manage, and support Arizona racquetball, and to design and implement procedures and guidelines for the benefit of the RPAA membership.
+The RPAA (Racquetball Players Association of Arizona) is a `501(c)(3)` not-for-profit Arizona corporation organized to promote, manage, and support Arizona racquetball, and to design and implement procedures and guidelines for the benefit of the RPAA membership.
