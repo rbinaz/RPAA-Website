@@ -42,12 +42,12 @@ paginate = 10
 
 [[menu.main]]
     name = "Tournaments"
-    url = "https://www.usaracquetballevents.com/Arizona/future.asp?region=AZ"
+    url = "https://www.usaracquetballevents.com/arizona/racquetball-events.asp"
     weight = 5
 
 [[menu.main]]
     name = "Rankings"
-    url = "https://www.usaracquetballevents.com/rankings.asp?region=AZ"
+    url = "https://www.usaracquetballevents.com/rankings.asp?stateID=4"
     weight = 6
 
 [[menu.main]]
