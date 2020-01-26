@@ -23,38 +23,32 @@ paginate = 10
     url  = "/"
     weight = 1
 
-# [[menu.main]]
-#     identifier="blog"
-#     name = "Blog"
-#     url  = "/blog/"
-#     weight = 2
-
 [[menu.main]]
     identifier = "about"
     name = "About"
     url  = "/about/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Courts"
     url = "http://dailyracquetball.com/where-to-play-racquetball-arizona/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Tournaments"
     url = "https://www.usaracquetballevents.com/arizona/racquetball-events.asp"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Rankings"
     url = "https://www.usaracquetballevents.com/rankings.asp?stateID=4"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 6
 
 # Top bar social links menu
 
