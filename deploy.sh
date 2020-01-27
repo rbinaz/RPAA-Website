@@ -10,6 +10,14 @@ hugo -t hugo-universal-theme
 
 # Go To Public folder
 cd public
+
+export input=".pull-right {\n  float: right !important;\n}"
+export output=".pull-right {\n  visbility: hidden !important;\n}"
+
+# Strip visible watermark
+sed 's/$input/$output/g' css/style.red.css
+
+
 # Add changes to git.
 git add .
 
