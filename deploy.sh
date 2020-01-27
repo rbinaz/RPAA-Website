@@ -13,7 +13,7 @@ cd public
 
 
 # Strip visible watermark
-perl -i.bak -00pe "s/.pull-right {\n  float: right/.pull-right {\n  visibility: hidden/g" css/style.red.css
+perl -i.bak -00pe "s/.pull-right {\n  float: right/.pull-right {\n  visibility: hidden/g" css/style.green.css
 
 
 # Add changes to git.

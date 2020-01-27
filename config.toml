@@ -85,7 +85,7 @@ paginate = 10
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -154,7 +154,7 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Racquetball Players Association of Arizona Board Members"
+    title = "Racquetball Players Association of Arizona"
     subtitle = "All Board members are non-compensated volunteers that are elected by the active RPAA membership for three year terms."
 
 [params.see_more]
