@@ -20,6 +20,11 @@ The RPAA is responsible for sanctioning tournaments in Arizona under the guideli
 1. To resolve disputes that may arise at all levels.
 1. To ensure a consistency in racquetball programs and tournaments.
 
+## RPAA Rules
+
+### Rulebook
+[USAR Rulebook](https://www.teamusa.org/-/media/USA_Racquetball/Documents/Rules/USAR-Rulebook.pdf?la=en&hash=**27AD6FB0E233E8ACC9DF37AE4AE35ABF7145F9E8**)
+
 ## About the RPAA
 We all donate time, money, efforts, and more to help racquetball in Arizona. Please contact us if you would like to help.
 
