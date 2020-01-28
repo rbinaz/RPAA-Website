@@ -7,7 +7,7 @@ keywords = ["About","Mission","RPAA","board"]
 
 # RPAA Board of Directors
 
-The RPAA is a statewide organization, which is recognized by USA Racquetball (USAR) as the governing body of racquetball in Arizona.
+The RPAA is a statewide organization, which is recognized by USA Racquetball (USAR) as the governing body of racquetball in Arizona. All Board members are non-compensated volunteers that are elected by the active RPAA membership for three year terms.
 
 ## A Few Words About Us
 
